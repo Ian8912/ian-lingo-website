@@ -13,7 +13,7 @@ export default function Navbar() {
                 Projects
             </Link>
 
-            <Link href="/experience" className="text-gray-300 hover:text-sky-600 transition-colors">
+            <Link href="/experience" className="text-gray-300 hover:text-sky-400 transition-colors">
                 Experience
             </Link>
 
