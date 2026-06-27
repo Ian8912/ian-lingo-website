@@ -21,9 +21,11 @@ export default function Home() {
 
         <h1 className="mt-12 text-4xl font-bold">About Me</h1>
 
-        <p className="mt-4 max-w-lg text-lg text-gray-400">Hello (World) ! My name is Ian Lingo, and I am an aspiring software engineer based in Texas with recent Bay Area experience through San Jose State University Open University. I graduated with a B.S. in Computer Science with minors in Applied Math and Mass Communication from Texas State University.</p>
+        <p className="mt-4 max-w-lg text-lg text-gray-400">Hello World! My name is Ian Lingo, and I am a recent computer science graduate
+        focused on backend, full-stack, robotics, and systems-oriented software
+        engineering. I am based in Texas with recent Bay Area experience through San Jose State University Open University. I graduated from Texas State University with a B.S. in Computer Science and minors in Applied Mathematics and Mass Communication .</p>
 
-        <p className="mt-4 max-w-lg text-lg text-gray-400">I am highly interested in all things technology and business related. Beyond coding, I thoroughly enjoy traveling, reading, watching sci-fi, and going to the gym. I&apos;m open to trying new things as I would for learning new tools and technologies most suitable for the job.</p>
+        <p className="mt-4 max-w-lg text-lg text-gray-400">I enjoy building practical software systems, leading technical projects, and learning new tools and technologies that help solve real engineering and business problems. Beyond coding, I enjoy traveling, reading, watching science fiction and documentaries, and going to the gym.</p>
 
       <ImageCollage/>
       <ContactLinks/>
