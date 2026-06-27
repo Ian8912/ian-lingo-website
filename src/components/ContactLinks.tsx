@@ -1,10 +1,3 @@
-/**
- * SOCIAL LINKS SECTION
- *
- * Prominent section showing how to connect with IEEE TXST
- * on various social platforms. More community-focused.
- */
-
 "use client";
 
 export default function ContactLinks() {
