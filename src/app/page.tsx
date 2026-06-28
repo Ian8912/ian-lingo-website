@@ -4,13 +4,13 @@ import ContactLinks from "../components/ContactLinks";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center text-center">
+    <div className="flex flex-col items-center text-center mt-30">
       <Image
         src="/images/ian-lingo.png"
         alt="Ian Lingo Headshot"
         width={400}
         height={80}
-        className="mt-30 rounded-xl object-cover"
+        className="rounded-xl object-cover"
         priority
       />
         <h2 className="mt-4 text-2xl font-bold">Ian Lingo</h2>
