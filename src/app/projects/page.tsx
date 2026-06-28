@@ -44,6 +44,28 @@ const projects = [
   },
 ];
 
+// Additional technical work shown as a compact text list (no screenshots) to
+// distinguish it from the visual project cards above. Use this for smaller
+// projects, open-source contributions, coursework, or experiments.
+const technicalWork = [
+  {
+    title: "Intel Data Center Sustainability Analysis",
+    href: "https://github.com/Ian8912/Intel-Data-Center-Analysis",
+    image: "/images/intel-data-center-logo.png",
+    alt: "Intel Data Center Sustainability Analysis",
+    description:
+      "SQL and data visualization project analyzing U.S. regional energy production, renewable energy reliance, and surplus trends to recommend potential data center locations for Intel's sustainability team.",
+  },
+  {
+    title: "Grammys Web Analytics Analysis",
+    href: "https://github.com/Ian8912/Grammy-Data-Analysis",
+    image: "/images/grammy-awards-logo.png",
+    alt: "Grammys Web Analytics Analysis",
+    description:
+      "Python data analytics project analyzing website traffic trends, audience behavior, and the impact of splitting the Grammys and Recording Academy websites using Pandas, NumPy, Plotly, and Jupyter Notebook.",
+  },
+];
+
 export default function Projects() {
   return (
     <div className="flex flex-col items-center text-center mt-30">
@@ -88,6 +110,43 @@ export default function Projects() {
               </Link>
 
               <p className="text-gray-400">{project.description}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {/* Additional Technical Work */}
+      <h2 className="mt-24 text-3xl font-bold">Technical Work</h2>
+
+      <div className="mt-12 mb-20 flex flex-col gap-8">
+        {technicalWork.map((item) => (
+          <article key={item.title} className="max-w-xl text-left">
+            <Link
+              href={item.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xl font-semibold transition-colors hover:text-sky-400"
+            >
+              {item.title}
+            </Link>
+
+            <div className="mt-4 flex items-start gap-4">
+              <Link
+                href={item.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="relative h-50 w-50 shrink-0 overflow-hidden rounded-2xl border border-gray-700 bg-gray-900"
+              >
+                <Image
+                  src={item.image}
+                  alt={item.alt}
+                  fill
+                  sizes="200px"
+                  className="object-contain"
+                />
+              </Link>
+
+              <p className="text-gray-400">{item.description}</p>
             </div>
           </article>
         ))}
