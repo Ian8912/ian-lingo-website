@@ -1,8 +1,8 @@
-# Ian Lingo — Portfolio
+# Ian Lingo: Portfolio
 
-My personal portfolio website.
+My personal portfolio website link:
 
-🔗 **[ianlingo.com](https://ianlingo.com)**
+**[ianlingo.com](https://ianlingo.com)**
 
 Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com), hosted on [AWS Amplify](https://aws.amazon.com/amplify/).
 
