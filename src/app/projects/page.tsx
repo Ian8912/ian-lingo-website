@@ -5,7 +5,7 @@ const projects = [
   {
     title: "IEEE TXST Website Platform",
     href: "https://github.com/TXST-IEEE/website",
-    image: "/images/IEEE-TXST-homepage.png",
+    image: "/images/ieee-txst-homepage.png",
     alt: "IEEE TXST Website Home Page",
     description:
       "Production web platform for IEEE at Texas State University built with Next.js, TypeScript, Tailwind CSS, Vercel, and Cloudflare. Led a 7-member student development team to replace a legacy WordPress site serving 100+ users.",

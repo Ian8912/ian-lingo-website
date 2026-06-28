@@ -17,12 +17,12 @@ const images: CollageImage[] = [
     },
 
     {
-        src: "/images/MARS-frontrobot.jpeg",
+        src: "/images/mars-frontrobot.jpeg",
         alt: "MARS Front Photo",
     },
 
     {
-        src: "/images/MARS-groupphoto1.jpeg",
+        src: "/images/mars-groupphoto1.jpeg",
         alt: "MARS Group Photo",
     },
 
@@ -37,7 +37,7 @@ const images: CollageImage[] = [
     },
 
     {
-        src: "/images/IEEE-TXST-homepage.png",
+        src: "/images/ieee-txst-homepage.png",
         alt: "IEEE TXST Homepage",
         className: "sm:col-span-2",
     },
