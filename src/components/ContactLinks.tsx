@@ -38,7 +38,7 @@ export default function ContactLinks() {
   ];
 
   return (
-    <section className="py-12 w-full bg-black">
+    <section id="contact" className="py-12 w-full bg-black">
       <div className="max-w-6xl mx-auto px-6 md:px-8 lg:px-12">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-white mb-4">

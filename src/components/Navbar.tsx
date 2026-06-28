@@ -14,7 +14,7 @@ const navLinks = [
     { name: "Projects" , href: "/projects"},
     { name: "Experience" , href: "/experience"},
     { name: "Resume" , href: "/resume"},
-    { name: "Contact" , href: "/contact"},
+    { name: "Contact" , href: "/#contact"},
 ];
 
 export default function Navbar() {
@@ -27,6 +27,8 @@ export default function Navbar() {
         if (href === "/") {
         return pathname === "/";
         }
+
+
 
         // All subdirectories within navLinks item will be active (e.g. /projects/mars, /projects, /projects/chess).
         return pathname.startsWith(href);
