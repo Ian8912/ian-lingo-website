@@ -21,7 +21,7 @@ const projects = [
   {
     title: "MARS: Makerspace Autonomous Robot System",
     href: "https://github.com/TXST-RAS/makerspace-detector",
-    image: "/images/MARS-frontrobot.jpeg",
+    image: "/images/mars-frontrobot.jpeg",
     alt: "MARS: Makerspace Autonomous Robot System",
     description:
       "Autonomous service robot platform developed with ROS2, NVIDIA Jetson Orin Nano, ZED 2i, RPLidar A1, embedded motor control, and YOLOv11 computer vision. Directed a 17-member IEEE RAS team across hardware, perception, integration, and testing.",
