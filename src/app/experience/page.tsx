@@ -1,83 +1,83 @@
 const experiences = [
-{
-  organization: "Best Buy - Geek Squad",
-  date: "May 2026 - Present",
-  title: "Advanced Repair Technician",
-  description:
-  "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows/macOS systems; build and configure computers, document repair workflows, and communicate technical solutions to clients as an Apple-certified technician.",
-},
+  {
+    organization: "Best Buy - Geek Squad",
+    date: "May 2026 - Present",
+    title: "Advanced Repair Technician",
+    description:
+    "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows/macOS systems; build and configure computers, document repair workflows, and communicate technical solutions to clients as an Apple-certified technician.",
+  },
 
-{
-  organization: "San Jose State University Open University",
-  date: "Summer 2026",
-  title: "Advanced Programming with Python",
-  description:
-  "Completed advanced Python coursework focused on software development, file processing, data handling, automation, and practical programming while studying in the Bay Area.",
-},
+  {
+    organization: "San Jose State University Open University",
+    date: "Summer 2026",
+    title: "Advanced Programming with Python",
+    description:
+    "Completed advanced Python coursework focused on software development, file processing, data handling, automation, and practical programming while studying in the Bay Area.",
+  },
 
-{
-  organization: "Texas State University",
-  date: "Aug. 2022 - May 2026",
-  title: "B.S. in Computer Science",
-  description:
-  "Graduated cum laude with a Bachelor of Science in Computer Science and minors in Applied Mathematics and Mass Communication.",
-},
+  {
+    organization: "Texas State University",
+    date: "Aug. 2022 - May 2026",
+    title: "B.S. in Computer Science",
+    description:
+    "Graduated cum laude with a Bachelor of Science in Computer Science and minors in Applied Mathematics and Mass Communication.",
+  },
 
-{
-  organization: "IEEE Robotics & Automation Society",
-  date: "Aug. 2025 - May 2026",
-  title: "Co-Founder and Treasurer",
-  description:
-  "Co-founded the Texas State IEEE RAS chapter, helped grow the organization to more than 100 members, managed a $15K budget, coordinated technical programming, and supported the development of student robotics teams.",
-},
+  {
+    organization: "IEEE Robotics & Automation Society",
+    date: "Aug. 2025 - May 2026",
+    title: "Co-Founder and Treasurer",
+    description:
+    "Co-founded the Texas State IEEE RAS chapter, helped grow the organization to more than 100 members, managed a $15K budget, coordinated technical programming, and supported the development of student robotics teams.",
+  },
 
-{
-  organization: "MARS - Makerspace Autonomous Robot System",
-  date: "Aug. 2025 - May 2026",
-  title: "Director of Industry Robotics",
-  description:
-  "Directed a 17-member engineering team developing an indoor service-robot platform using ROS2, Python, C++, Jetson Orin Nano, ZED 2i, YOLOv11 computer vision, embedded motor control, and system integration.",
-},
+  {
+    organization: "MARS - Makerspace Autonomous Robot System",
+    date: "Aug. 2025 - May 2026",
+    title: "Director of Industry Robotics",
+    description:
+    "Directed a 17-member engineering team developing an indoor service-robot platform using ROS2, Python, C++, Jetson Orin Nano, ZED 2i, YOLOv11 computer vision, embedded motor control, and system integration.",
+  },
 
-{
-  organization: "Boko Hackathon",
-  date: "Aug. 2024 - April 2025",
-  title: "Director",
-  description:
-  "Helped lead the planning and execution of a student hackathon by coordinating teams, sponsors, logistics, technical programming, and outreach across the Texas State engineering community.",
-},
+  {
+    organization: "Boko Hackathon",
+    date: "Aug. 2024 - April 2025",
+    title: "Director",
+    description:
+    "Helped lead the planning and execution of a student hackathon by coordinating teams, sponsors, logistics, technical programming, and outreach across the Texas State engineering community.",
+  },
 
-{
-  organization: "IEEE Region 5 Robotics Competition",
-  date: "Spring 2026",
-  title: "Robotics Software Team Member",
-  description:
-  "Helped develop C++ movement-control software and Python AprilTag computer-vision code for Pico, a five-person competition robot that placed 2nd out of 25 universities in Boulder, Colorado.",
-},
+  {
+    organization: "IEEE Region 5 Robotics Competition",
+    date: "Spring 2026",
+    title: "Robotics Software Team Member",
+    description:
+    "Helped develop C++ movement-control software and Python AprilTag computer-vision code for Pico, a five-person competition robot that placed 2nd out of 25 universities in Boulder, Colorado.",
+  },
 
-{
-  organization: "IEEE, IEEE-HKN, and Student Engineering Organizations",
-  date: "Aug. 2024 - May 2026",
-  title: "Vice President, Treasurer, and Technical Leader",
-  description:
-  "Supported student engineering programs, sponsorship outreach, technical workshops, and organizational growth while helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
-},
+  {
+    organization: "IEEE, IEEE-HKN, and Student Engineering Organizations",
+    date: "Aug. 2024 - May 2026",
+    title: "Vice President, Treasurer, and Technical Leader",
+    description:
+    "Supported student engineering programs, sponsorship outreach, technical workshops, and organizational growth while helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
+  },
 
-{
-  organization: "Amazon",
-  date: "Jan. 2021 - Jul. 2025",
-  title: "Team Lead and Learning Ambassador",
-  description:
-  "Led and trained more than 10 associates in outbound operations, monitored high-volume package flow, verified shipment accuracy, and helped implement process improvements that reduced truck dispatch time by 50%.",
-},
+  {
+    organization: "Amazon",
+    date: "Jan. 2021 - Jul. 2025",
+    title: "Team Lead and Learning Ambassador",
+    description:
+    "Led and trained more than 10 associates in outbound operations, monitored high-volume package flow, verified shipment accuracy, and helped implement process improvements that reduced truck dispatch time by 50%.",
+  },
 
-{
-organization: "Intel & The Recording Academy",
-date: "Jun. 2023 - Aug. 2023",
-title: "Data Science & Analytics - Global Career Accelerator",
-description:
-"Completed industry-sponsored analytics projects using Python, SQL, Pandas, NumPy, and data visualization to analyze large datasets and present stakeholder-facing findings.",
-},
+  {
+    organization: "Intel & The Recording Academy",
+    date: "Jun. 2023 - Aug. 2023",
+    title: "Data Science & Analytics - Global Career Accelerator",
+    description:
+    "Completed industry-sponsored analytics projects using Python, SQL, Pandas, NumPy, and data visualization to analyze large datasets and present stakeholder-facing findings.",
+  },
 ];
 
 
