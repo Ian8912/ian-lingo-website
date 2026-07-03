@@ -1,6 +1,6 @@
 import Skills from "../../components/Skills";
 
-const RESUME_PDF = "/docs/Ian_Lingo_SWE_Public_Resume.pdf";
+const RESUME_PDF = "/docs/ian-lingo-swe-public-resume.pdf";
 
 export default function Resume() {
   return (
