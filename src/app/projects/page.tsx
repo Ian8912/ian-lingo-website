@@ -4,7 +4,7 @@ import Image from "next/image";
 const projects = [
   {
     title: "IEEE TXST Website Platform",
-    href: "https://github.com/TXST-IEEE/website",
+    href: "https://ieeetxst.org/",
     image: "/images/ieee-txst-homepage.png",
     alt: "IEEE TXST Website Home Page",
     description:
