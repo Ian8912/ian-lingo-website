@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { cn } from "../lib/utils";
 
 const projects = [
   {
@@ -93,19 +94,22 @@ export default function Projects() {
               {project.title}
             </Link>
 
-            <div className="mt-4 flex items-start gap-4">
+            <div className="mt-4 flex flex-col gap-4 sm:flex-row sm:items-start">
               <Link
                 href={project.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative h-50 w-50 shrink-0 overflow-hidden rounded-2xl border border-gray-700 bg-gray-900"
+                className={cn(
+                  "group relative h-[200px] w-full overflow-hidden rounded-2xl border border-gray-700 bg-gray-900 sm:w-[200px] sm:shrink-0",
+                  "transition-transform duration-300 hover:-translate-y-1 hover:border-sky-400"
+                )}
               >
                 <Image
                   src={project.image}
                   alt={project.alt}
                   fill
-                  sizes="200px"
-                  className="object-cover"
+                  sizes="(max-width: 640px) 100vw, 200px"
+                  className="object-cover transition-transform duration-300 group-hover:scale-105"
                 />
               </Link>
 
@@ -130,19 +134,19 @@ export default function Projects() {
               {item.title}
             </Link>
 
-            <div className="mt-4 flex items-start gap-4">
+            <div className="mt-4 flex flex-col gap-4 sm:flex-row sm:items-start">
               <Link
                 href={item.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="relative h-50 w-50 shrink-0 overflow-hidden rounded-2xl border border-gray-700 bg-gray-900"
+                className="group relative h-[160px] w-full overflow-hidden rounded-2xl border border-gray-700 bg-gray-900 transition-transform duration-300 hover:-translate-y-1 hover:border-sky-400 sm:w-[160px] sm:shrink-0"
               >
                 <Image
                   src={item.image}
                   alt={item.alt}
                   fill
-                  sizes="200px"
-                  className="object-contain"
+                  sizes="(max-width: 640px) 100vw, 160px"
+                  className="object-contain p-4 transition-transform duration-300 group-hover:scale-105"
                 />
               </Link>
 
