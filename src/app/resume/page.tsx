@@ -13,7 +13,7 @@ export default function Resume() {
         download
         className="mt-6 rounded-full border border-gray-700 bg-gray-900 px-6 py-2 text-gray-200 transition-colors hover:text-sky-400"
       >
-        Download Résumé (PDF) ↓
+        Download Resume (PDF) ↓
       </a>
 
       <object
