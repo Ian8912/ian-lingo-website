@@ -4,20 +4,12 @@ import { cn } from "../lib/utils";
 
 const projects = [
   {
-    title: "IEEE TXST Website Platform",
-    href: "https://github.com/Ian8912/ieee-txst-website",
-    image: "/images/ieee-txst-homepage.png",
-    alt: "IEEE TXST Website Home Page",
-    description:
-      "Production web platform for IEEE at Texas State University built with Next.js, TypeScript, Tailwind CSS, Vercel, and Cloudflare. Led a 7-member student development team to replace a legacy WordPress site serving 100+ users.",
-  },
-  {
     title: "Java Chess Game Application",
     href: "https://github.com/Ian8912/ChessOOP",
     image: "/images/chess-opening-gui.png",
     alt: "Full-Stack Java Chess Game",
     description:
-      "Full-stack Java chess application with a Swing client, Spring Boot REST API, PostgreSQL leaderboard, Elo ratings, and a from-scratch AI opponent using negamax, alpha-beta pruning, and quiescence search.",
+    "Full-stack Java chess application with a Swing client, Spring Boot REST API, PostgreSQL leaderboard, Elo ratings, and a from-scratch AI opponent using negamax, alpha-beta pruning, and quiescence search.",
   },
   {
     title: "MARS: Makerspace Autonomous Robot System",
@@ -25,7 +17,15 @@ const projects = [
     image: "/images/mars-frontrobot.jpeg",
     alt: "MARS: Makerspace Autonomous Robot System",
     description:
-      "Autonomous service robot platform developed with ROS2, NVIDIA Jetson Orin Nano, ZED 2i, RPLidar A1, embedded motor control, and YOLOv11 computer vision. Directed a 17-member IEEE RAS team across hardware, perception, integration, and testing.",
+    "Autonomous service robot platform developed with ROS2, NVIDIA Jetson Orin Nano, ZED 2i, RPLidar A1, embedded motor control, and YOLOv11 computer vision. Directed a 17-member IEEE RAS team across hardware, perception, integration, and testing.",
+  },
+  {
+    title: "IEEE TXST Website Platform",
+    href: "https://github.com/Ian8912/ieee-txst-website",
+    image: "/images/ieee-txst-homepage.png",
+    alt: "IEEE TXST Website Home Page",
+    description:
+      "Production web platform for IEEE at Texas State University built with Next.js, TypeScript, Tailwind CSS, Vercel, and Cloudflare. Led a 7-member student development team to replace a legacy WordPress site serving 100+ users.",
   },
   {
     title: "IEEE R5 Robotics Competition Robot",
