@@ -42,9 +42,9 @@ const experiences = [
   {
     organization: "Boko Hackathon",
     date: "August 2024 - April 2025",
-    title: "Director",
+    title: "Director and Treasurer",
     description:
-    "Helped lead the planning and execution of a student hackathon by coordinating teams, logistics, technical programming, and sponsorship outreach helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
+    "Helped lead the planning and execution of a cybersecurity/AI-focused student hackathon by coordinating teams, judged participants code, coordinated company professionals, and sponsorship outreach helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
   },
 
   {
