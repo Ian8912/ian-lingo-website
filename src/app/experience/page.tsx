@@ -4,13 +4,13 @@ const experiences = [
     date: "June 2026 - Present",
     title: "Advanced Repair Technician",
     description:
-    "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows/macOS systems; build and configure computers, document repair workflows, and communicate technical solutions to clients as an Apple-certified technician.",
+    "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows/macOS/Linux systems; isolate hardware/software faults, use/document Apple GSX repair workflows, build and configure computers, and explain technical solutions to clients as an Apple-certified technician.",
   },
 
   {
     organization: "San Jose State University Open University",
     date: "Summer 2026",
-    title: "Advanced Programming with Python",
+    title: "Advanced Python Programming",
     description:
     "Completed advanced Python coursework focused on software development, file processing, data handling, automation, and practical programming while studying in the Bay Area.",
   },
@@ -28,7 +28,7 @@ const experiences = [
     date: "August 2025 - May 2026",
     title: "Co-Founder and Treasurer",
     description:
-    "Co-founded the Texas State IEEE RAS chapter, helped grow the organization to more than 100 members, managed a $15K budget, coordinated technical programming, and supported the development of student robotics teams.",
+    "Co-founded the Texas State IEEE RAS chapter, helped grow the organization to more than 100 members, coordinated technical programming, and supported the development of student robotics teams.",
   },
 
   {
@@ -44,7 +44,7 @@ const experiences = [
     date: "August 2024 - April 2025",
     title: "Director",
     description:
-    "Helped lead the planning and execution of a student hackathon by coordinating teams, sponsors, logistics, technical programming, and outreach across the Texas State engineering community.",
+    "Helped lead the planning and execution of a student hackathon by coordinating teams, logistics, technical programming, and sponsorship outreach helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
   },
 
   {
@@ -60,7 +60,7 @@ const experiences = [
     date: "August 2024 - May 2026",
     title: "Vice President, Treasurer, and Technical Leader",
     description:
-    "Supported student engineering programs, sponsorship outreach, technical workshops, and organizational growth while helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
+    "Supported student engineering programs, technical workshops, company tours and relations, and organizational growth through adding 80+ paying members.",
   },
 
   {
@@ -72,7 +72,7 @@ const experiences = [
   },
 
   {
-    organization: "Intel & The Recording Academy",
+    organization: "Intel & The Recording Academy (Grammys)",
     date: "June 2023 - August 2023",
     title: "Data Science & Analytics - Global Career Accelerator",
     description:
