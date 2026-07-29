@@ -33,7 +33,7 @@ const experiences = [
 
   {
     organization: "MARS - Makerspace Autonomous Robot System",
-    date: "August 2025 - May 2026",
+    date: "September 2025 - May 2026",
     title: "Director of Industry Robotics",
     description:
     "Directed a 17-member engineering team developing an indoor service-robot platform using ROS2, Python, C++, Jetson Orin Nano, ZED 2i, YOLOv11 computer vision, embedded motor control, and system integration.",
