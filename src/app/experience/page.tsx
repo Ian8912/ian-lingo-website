@@ -4,15 +4,15 @@ const experiences = [
     date: "June 2026 - Present",
     title: "Advanced Repair Technician",
     description:
-    "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows/macOS/Linux systems; isolate hardware/software faults, use/document Apple GSX repair workflows, build and configure computers, and explain technical solutions to clients as an Apple-certified technician.",
+      "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows, macOS, and Linux systems; isolate hardware and software faults, complete and document Apple GSX repair workflows, build and configure computers, and communicate technical solutions to clients as an Apple-certified technician.",
   },
 
   {
     organization: "San Jose State University Open University",
-    date: "Summer 2026",
+    date: "June 2026 - August 2026",
     title: "Advanced Python Programming",
     description:
-    "Completed advanced Python coursework focused on software development, file processing, data handling, automation, and practical programming while studying in the Bay Area.",
+      "Completing advanced Python coursework focused on software development, file processing, data analysis, automation, NumPy, Matplotlib, and practical application development while studying in the Bay Area.",
   },
 
   {
@@ -20,23 +20,23 @@ const experiences = [
     date: "August 2022 - May 2026",
     title: "B.S. in Computer Science",
     description:
-    "Graduated cum laude with a Bachelor of Science in Computer Science and minors in Applied Mathematics and Mass Communication.",
+      "Graduated cum laude with a Bachelor of Science in Computer Science and minors in Applied Mathematics and Mass Communication as a member of the Honors College and IEEE-Eta Kappa Nu Honor Society.",
   },
-
-  {
-    organization: "IEEE Robotics & Automation Society",
-    date: "August 2025 - May 2026",
-    title: "Co-Founder and Treasurer",
-    description:
-    "Co-founded the Texas State IEEE RAS chapter, helped grow the organization to more than 100 members, coordinated technical programming, and supported the development of student robotics teams.",
-  },
-
+  
   {
     organization: "MARS - Makerspace Autonomous Robot System",
     date: "September 2025 - May 2026",
     title: "Director of Industry Robotics",
     description:
-    "Directed a 17-member engineering team developing an indoor service-robot platform using ROS2, Python, C++, Jetson Orin Nano, ZED 2i, YOLOv11 computer vision, embedded motor control, and system integration.",
+    "Created the project from concept to physical prototype, secured a $5,000 engineering grant, and directed a 17-member software, electrical, and mechanical team. Personally developed the YOLOv11 computer-vision pipeline, contributed to Teensy 4.1 motor-control firmware, and delivered the minimum viable product 16 days ahead of schedule.",
+  },
+  
+  {
+    organization: "IEEE Robotics & Automation Society",
+    date: "August 2025 - May 2026",
+    title: "Co-Founder and Treasurer",
+    description:
+      "Co-founded the Texas State IEEE Robotics and Automation Society chapter, helped grow it to more than 100 members, coordinated technical programming and finances, and supported the formation and development of multidisciplinary student robotics teams.",
   },
 
   {
@@ -44,7 +44,7 @@ const experiences = [
     date: "August 2024 - April 2025",
     title: "Director and Treasurer",
     description:
-    "Helped lead the planning and execution of a cybersecurity/AI-focused student hackathon by coordinating teams, judged participants code, coordinated company professionals, and sponsorship outreach helping raise more than $12K from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
+      "Helped lead the planning and execution of a cybersecurity- and artificial-intelligence-focused student hackathon by coordinating student teams, judging participant code, managing industry relationships, and supporting sponsorship outreach that raised more than $12,000 from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
   },
 
   {
@@ -52,7 +52,7 @@ const experiences = [
     date: "Spring 2026",
     title: "Robotics Software Team Member",
     description:
-    "Helped develop C++ movement-control software and Python AprilTag computer-vision code for Pico, a five-person competition robot that placed 2nd out of 25 universities in Boulder, Colorado.",
+      "Contributed to C++ movement-control software and Python AprilTag computer-vision code for Pico, a Raspberry Pi 5-powered mecanum-drive robot using encoder and time-of-flight sensor feedback. Helped iterate on technical and scoring strategies that moved the team from near the bottom of the standings to 2nd place out of 25 universities.",
   },
 
   {
@@ -60,15 +60,15 @@ const experiences = [
     date: "August 2024 - May 2026",
     title: "Vice President, Treasurer, and Technical Leader",
     description:
-    "Supported student engineering programs, technical workshops, company tours and relations, and organizational growth through adding 80+ paying members.",
+      "Led and supported technical workshops, engineering programs, company tours, industry relations, and student recruitment initiatives that added more than 80 paying members across Texas State engineering organizations.",
   },
 
   {
     organization: "Amazon",
     date: "January 2021 - July 2025",
-    title: "Team Lead and Learning Ambassador",
+    title: "Operations Associate: Team Lead and Learning Ambassador",
     description:
-    "Led and trained more than 10 associates in outbound operations, monitored high-volume package flow, verified shipment accuracy, and helped implement process improvements that reduced truck dispatch time by 50%.",
+      "Selected at age 18 to coordinate half of an outbound operation processing more than 10,000 packages daily, directly leading more than 10 associates. Implemented workflow improvements that reduced average truck dispatch time from two hours to one hour and later trained more than 100 associates as a Learning Ambassador.",
   },
 
   {
@@ -76,7 +76,7 @@ const experiences = [
     date: "June 2023 - August 2023",
     title: "Data Science & Analytics - Global Career Accelerator",
     description:
-    "Completed industry-sponsored analytics projects using Python, SQL, Pandas, NumPy, and data visualization to analyze large datasets and present stakeholder-facing findings.",
+      "Completed industry-sponsored analytics projects using Python, SQL, Pandas, NumPy, and data visualization to clean and analyze large datasets, identify actionable trends, and present stakeholder-facing findings.",
   },
 ];
 
