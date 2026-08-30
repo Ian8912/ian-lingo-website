@@ -1,23 +1,27 @@
 const skills = [
   {
     category: "Programming Languages",
-    items: ["Python", "Java", "C++", "SQL", "JavaScript", "TypeScript", "MIPS", "R"],
+    items: ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
+  },
+  {
+    category: "AI/Developer Tools",
+    items: ["Claude Code", "GitHUb Copilot", "ChatGPT", "Google Gemini"],
   },
   {
     category: "Frameworks/Tools",
-    items: ["React", "Next.js", "Flask", "Spring Boot", "Gradle", "Jupyter Notebook", "ROS2", "Docker", "YOLO", "OpenCV"],
+    items: ["React", "Next.js", "Flask", "Spring Boot", "Gradle", "JUnit", "REST APIs", "ROS2", "Docker", "YOLO", "OpenCV"],
   },
   {
     category: "Cloud/DevOps",
-    items: ["AWS", "OCI", "Git", "GitHub", "GitHub Actions", "Atlassian (Jira, Bitbucket)", "CI/CD", "Vercel", "Firebase"],
+    items: ["Git", "GitHub", "GitHub Actions", "CI/CD", "AWS", "OCI", "Jira", "Bitbucket", "Vercel", "Firebase"],
   },
   {
     category: "Data",
-    items: ["PostgreSQL", "SQL Server", "BigQuery", "Tableau", "Pandas", "NumPy", "Plotly"],
+    items: ["PostgreSQL", "SQL Server", "BigQuery", "Tableau", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
   },
   {
     category: "Operating Systems",
-    items: ["Linux (Ubuntu)", "Windows", "macOS"],
+    items: ["Linux (Ubuntu)", "Windows", "macOS", "iOS"],
   },
   {
     category: "Certificates",
