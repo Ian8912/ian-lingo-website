@@ -68,7 +68,7 @@ const experiences = [
     date: "January 2021 - July 2025",
     title: "Operations Associate: Team Lead and Learning Ambassador",
     description:
-      "Selected at age 18 to coordinate half of an outbound operation processing more than 10,000 packages daily, directly leading more than 10 associates. Implemented workflow improvements that reduced average truck dispatch time from two hours to one hour and later trained more than 100 associates as a Learning Ambassador.",
+      "Selected at age 18 to coordinate half of an outbound operation processing 10,000+ packages daily, directly leading 10+ associates. Implemented workflow improvements that reduced average truck dispatch time from two hours to one hour, and later trained 100+ associates as a Learning Ambassador.",
   },
 
   {
