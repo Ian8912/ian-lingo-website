@@ -5,7 +5,7 @@ const skills = [
   },
   {
     category: "AI/Developer Tools",
-    items: ["Claude Code", "GitHUb Copilot", "ChatGPT", "Google Gemini"],
+    items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
   },
   {
     category: "Frameworks/Tools",
