@@ -4,7 +4,7 @@ const experiences = [
     date: "June 2026 - Present",
     title: "Advanced Repair Technician",
     description:
-      "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows, macOS, and Linux systems; isolate hardware and software faults, complete and document Apple GSX repair workflows, build and configure computers, and communicate technical solutions to clients as an Apple-certified technician.",
+      "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows, macOS, and Linux systems. Isolate hardware and software faults, complete and document Apple GSX repair workflows, build and configure computers, and communicate technical solutions to clients as an Apple-certified technician.",
   },
 
   {
