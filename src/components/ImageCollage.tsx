@@ -62,9 +62,9 @@ const images: CollageImage[] = [
     },
 
     {
-        src: "/images/both-cnc-machine-detected.jpeg",
-        alt: "MARS CNC Machine Detection",
-        href: "https://github.com/TXST-RAS/makerspace-detector",
+        src: "/images/ras-r5robotics-2ndplace-group-photo.png",
+        alt: "IEEE R5 Pico Robot Team Photo",
+        href: "https://www.linkedin.com/posts/ianlingo_i-am-proud-to-share-that-my-teammates-nathan-activity-7449921401228120064-kkN7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD841-cBw1y2ZdQ3TQ3xJMf7Zh5OS5QP88k",
     },
 
     {
