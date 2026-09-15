@@ -25,7 +25,7 @@ export default function Home() {
         focused on backend, full-stack, robotics, and systems-oriented software
         engineering. I am based in Texas with recent Bay Area experience through San Jose State University Open University. I graduated from Texas State University with a B.S. in Computer Science and minors in Applied Mathematics and Mass Communication.</p>
 
-        <p className="mt-4 max-w-lg text-lg text-gray-400">I enjoy building practical software systems, leading technical projects, and learning new tools and technologies that help solve real engineering and business problems. Beyond coding, I enjoy traveling, reading, watching science fiction and documentaries, and going to the gym.</p>
+        <p className="mt-4 max-w-lg text-lg text-gray-400">I enjoy building practical software systems, leading technical projects, and learning new tools and technologies that help solve real engineering and business problems. Beyond coding, I enjoy traveling, reading, watching science fiction and documentaries, going to the gym, and visiting museums!</p>
 
       <ImageCollage/>
       <ContactLinks/>
