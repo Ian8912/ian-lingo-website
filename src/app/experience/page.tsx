@@ -36,7 +36,7 @@ const experiences = [
     date: "August 2025 - May 2026",
     title: "Co-Founder and Treasurer",
     description:
-      "Co-founded the Texas State IEEE Robotics and Automation Society chapter, helped grow it to more than 100 members, coordinated technical programming and finances, and supported the formation and development of multidisciplinary student robotics teams.",
+      "Co-founded the Texas State IEEE Robotics and Automation Society chapter, helped grow it to more than 100 members in less than 2 months, coordinated technical programming and finances, and supported the formation and development of multidisciplinary student robotics teams.",
   },
 
   {
@@ -44,7 +44,7 @@ const experiences = [
     date: "August 2024 - April 2025",
     title: "Director and Treasurer",
     description:
-      "Helped lead the planning and execution of a cybersecurity- and artificial-intelligence-focused student hackathon by coordinating student teams, judging participant code, managing industry relationships, and supporting sponsorship outreach that raised more than $12,000 from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
+      "Helped lead the planning and execution of a cybersecurity and artificial-intelligence-focused student hackathon by coordinating student teams with over 100+ participants, judging participant code, managing industry relationships, and supporting sponsorship outreach that raised more than $12,000 from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
   },
 
   {
