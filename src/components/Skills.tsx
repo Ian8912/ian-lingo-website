@@ -4,8 +4,8 @@ const skills = [
     items: ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
   },
   {
-    category: "AI/Developer Tools",
-    items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
+    category: "Embedded/Systems",
+    items: ["NVIDIA Jetson Orin Nano", "Arduino", "Teensy", "PWM", "encoder feedback", "I2C", "GPIO"],
   },
   {
     category: "Frameworks/Tools",
@@ -22,6 +22,10 @@ const skills = [
   {
     category: "Operating Systems",
     items: ["Linux (Ubuntu)", "Windows", "macOS", "iOS"],
+  },
+  {
+    category: "AI/Developer Tools",
+    items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
   },
   {
     category: "Certificates",
