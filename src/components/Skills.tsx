@@ -4,8 +4,8 @@ const skills = [
     items: ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
   },
   {
-    category: "Embedded/Systems",
-    items: ["NVIDIA Jetson Orin Nano", "Arduino", "Teensy", "PWM", "encoder feedback", "I2C", "GPIO"],
+    category: "Embedded Systems",
+    items: ["NVIDIA Jetson Orin Nano", "Teensy", "Arduino", "PWM", "I2C", "GPIO", "Encoders", "Digital Logic", "FPGA Fundamentals"],
   },
   {
     category: "Frameworks/Tools",
@@ -20,16 +20,16 @@ const skills = [
     items: ["PostgreSQL", "SQL Server", "BigQuery", "Tableau", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
   },
   {
-    category: "Operating Systems",
-    items: ["Linux (Ubuntu)", "Windows", "macOS", "iOS"],
-  },
-  {
     category: "AI/Developer Tools",
     items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
   },
   {
+    category: "Operating Systems",
+    items: ["Linux (Ubuntu)", "Windows", "macOS", "iOS"],
+  },
+  {
     category: "Certificates",
-    items: ["Google Data Analytics", "OCI Foundations", "AWS Cloud Practitioner (In progress)"],
+    items: ["Google Data Analytics", "Oracle Cloud Infrastructure (OCI) Foundations", "AWS Certified Developer - Associate (In progress)"],
   },
 ];
 
