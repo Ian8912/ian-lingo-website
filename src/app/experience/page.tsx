@@ -1,3 +1,17 @@
+import Image from "next/image";
+
+const logos = [
+  { src: "/images/amazon-logo.jpg", alt: "Amazon" },
+  { src: "/images/best-buy-logo.jpg", alt: "Best Buy" },
+  { src: "/images/intel-logo.png", alt: "Intel" },
+  { src: "/images/grammy-awards-logo.png", alt: "The Recording Academy (Grammys)" },
+  { src: "/images/texas-state-university-logo.jpg", alt: "Texas State University" },
+  { src: "/images/san-jose-state-university-logo.jpg", alt: "San Jose State University" },
+  { src: "/images/ieee-logo.jpg", alt: "IEEE" },
+  { src: "/images/ieee-ras-logo.jpg", alt: "IEEE Robotics & Automation Society" },
+  { src: "/images/ieee-hkn-logo.jpg", alt: "IEEE-Eta Kappa Nu" },
+];
+
 const experiences = [
   {
     organization: "Best Buy - Geek Squad",
@@ -85,6 +99,23 @@ export default function ExperienceTimeline() {
   return (
     <section className="min-h-screen bg-black px-6 py-28 text-white">
       <div className="mx-auto max-w-6xl">
+        <div className="mb-12 flex flex-wrap items-center justify-center gap-4">
+          {logos.map((logo) => (
+            <div
+              key={logo.src}
+              className="relative h-36 w-36 overflow-hidden rounded-xl border border-gray-700 bg-white p-3 shadow-lg transition-transform duration-300 hover:-translate-y-1 hover:border-sky-400"
+            >
+              <Image
+                src={logo.src}
+                alt={logo.alt}
+                fill
+                sizes="(max-width: 640px) 96px, 192px"
+                className="object-contain"
+              />
+            </div>
+          ))}
+        </div>
+
         <h1 className="text-center text-4xl font-bold">Experience</h1>
         <p className="mx-auto mt-4 max-w-2xl text-center text-gray-400">
           A timeline of my software engineering, robotics, leadership, and
