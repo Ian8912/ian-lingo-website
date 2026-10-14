@@ -42,7 +42,7 @@ const experiences = [
     date: "September 2025 - May 2026",
     title: "Director of Industry Robotics",
     description:
-    "Created the project from concept to physical prototype, secured a $5,000 engineering grant, and directed a 17-member software, electrical, and mechanical team. Personally developed the YOLOv11 computer-vision pipeline, contributed to Teensy 4.1 motor-control firmware, and delivered the minimum viable product 16 days ahead of schedule.",
+    "Created the project from concept to physical prototype, secured a $5,000 engineering grant, and directed the 17-member software, electrical, and mechanical team. Personally developed the YOLOv11 computer-vision pipeline, contributed to Teensy 4.1 motor-control firmware, and delivered the minimum viable product 16 days ahead of schedule.",
   },
   
   {
@@ -54,19 +54,19 @@ const experiences = [
   },
 
   {
+    organization: "IEEE Region 5 Robotics Competition",
+    date: "Spring 2026",
+    title: "Robotics Software Team Member",
+    description:
+    "Contributed to C++ movement-control software and Python AprilTag computer-vision code for Pico, a Raspberry Pi 5-powered mecanum-drive robot using encoder and time-of-flight sensor feedback. Helped iterate on technical and scoring strategies that moved the team from near the bottom of the standings to 2nd place out of 25 universities.",
+  },
+
+  {
     organization: "Boko Hackathon",
     date: "August 2024 - April 2025",
     title: "Director and Treasurer",
     description:
       "Helped lead the planning and execution of a cybersecurity and artificial-intelligence-focused student hackathon by coordinating student teams with over 100+ participants, judging participant code, managing industry relationships, and supporting sponsorship outreach that raised more than $12,000 from Google, Dell, BrainTrust, UFCU, IEEE, and Charles Schwab.",
-  },
-
-  {
-    organization: "IEEE Region 5 Robotics Competition",
-    date: "Spring 2026",
-    title: "Robotics Software Team Member",
-    description:
-      "Contributed to C++ movement-control software and Python AprilTag computer-vision code for Pico, a Raspberry Pi 5-powered mecanum-drive robot using encoder and time-of-flight sensor feedback. Helped iterate on technical and scoring strategies that moved the team from near the bottom of the standings to 2nd place out of 25 universities.",
   },
 
   {
