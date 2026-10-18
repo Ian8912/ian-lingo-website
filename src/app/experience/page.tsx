@@ -22,7 +22,7 @@ const experiences = [
   },
 
   {
-    organization: "San Jose State University Open University",
+    organization: "San Jose State University - Open University",
     date: "June 2026 - August 2026",
     title: "Advanced Python Programming",
     description:
@@ -91,6 +91,14 @@ const experiences = [
     title: "Data Science & Analytics - Global Career Accelerator",
     description:
       "Completed industry-sponsored analytics projects using Python, SQL, Pandas, NumPy, and data visualization to clean and analyze large datasets, identify actionable trends, and present stakeholder-facing findings.",
+  },
+
+  {
+    organization: "Northeast Lakeview College - Alamo Colleges",
+    date: "August 2020 - May 2022",
+    title: "A.A in Economics",
+    description:
+      "Completed an Associate of Arts in Economics with honors, developing a foundation in microeconomics, macroeconomics, and economic analysis. Studied market structures, supply and demand, economic policy, and the factors influencing individual and broader economic decisions.",
   },
 ];
 
