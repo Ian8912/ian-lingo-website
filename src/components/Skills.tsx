@@ -5,7 +5,7 @@ const skills = [
   },
   {
     category: "Embedded Systems",
-    items: ["NVIDIA Jetson Orin Nano", "Teensy", "Arduino", "PWM", "I2C", "GPIO", "Encoders", "Digital Logic", "FPGA Fundamentals"],
+    items: ["NVIDIA Jetson Orin Nano", "Teensy", "Arduino", "UART", "USB Serial", "PWM", "I2C", "GPIO", "Encoders", "FPGA Fundamentals"],
   },
   {
     category: "Frameworks/Tools",
