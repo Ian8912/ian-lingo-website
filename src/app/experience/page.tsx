@@ -98,7 +98,7 @@ const experiences = [
     date: "August 2020 - May 2022",
     title: "A.A in Economics",
     description:
-      "Completed an Associate of Arts in Economics with honors, developing a foundation in microeconomics, macroeconomics, and economic analysis. Studied market structures, supply and demand, economic policy, and the factors influencing individual and broader economic decisions.",
+      "Completed an Associate of Arts in Economics with honors, developing a foundation in microeconomics, macroeconomics, and economic analysis. Studied domestic markets, supply and demand, economic policy, and the factors influencing individual and broader economic decisions.",
   },
 ];
 
