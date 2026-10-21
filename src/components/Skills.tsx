@@ -1,31 +1,27 @@
 const skills = [
   {
     category: "Programming Languages",
-    items: ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
-  },
-  {
-    category: "Embedded Systems",
-    items: ["NVIDIA Jetson Orin Nano", "Teensy", "Arduino", "UART", "USB Serial", "PWM", "I2C", "GPIO", "Encoders", "FPGA Fundamentals"],
+    items: ["Python", "Java", "C++", "TypeScript", "JavaScript", "SQL"],
   },
   {
     category: "Frameworks/Tools",
-    items: ["React", "Next.js", "Flask", "Spring Boot", "Gradle", "JUnit", "REST APIs", "ROS2", "Docker", "YOLO", "OpenCV"],
+    items: ["Spring Boot", "React", "Next.js", "Flask", "Gradle", "REST APIs", "Tailwind CSS"],
   },
   {
     category: "Cloud/DevOps",
-    items: ["Git", "GitHub", "GitHub Actions", "CI/CD", "AWS", "OCI", "Jira", "Bitbucket", "Vercel", "Firebase"],
+    items: ["Git", "GitHub", "GitHub Actions", "CI/CD", "Docker", "AWS", "OCI", "Jira", "Vercel", "Cloudflare"],
   },
   {
     category: "Data",
     items: ["PostgreSQL", "SQL Server", "BigQuery", "Tableau", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
   },
   {
-    category: "AI/Developer Tools",
-    items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
+    category: "Embedded Systems",
+    items: [ "Linux (Ubuntu)", "ROS2", "Jetson Orin Nano", "Teensy 4.1", "Arduino", "UART", "USB Serial", "PWM", "I2C", "GPIO", "Encoders", "FPGA Fundamentals"],
   },
   {
-    category: "Operating Systems",
-    items: ["Linux (Ubuntu)", "Windows", "macOS", "iOS"],
+    category: "AI/Developer Tools",
+    items: ["Claude Code", "GitHub Copilot", "ChatGPT", "Google Gemini"],
   },
   {
     category: "Certificates",
