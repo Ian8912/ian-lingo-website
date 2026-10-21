@@ -18,7 +18,7 @@ const experiences = [
     date: "June 2026 - Present",
     title: "Advanced Repair Technician",
     description:
-      "Diagnose, troubleshoot, and repair PCs, Apple devices, and Windows, macOS, and Linux systems. Isolate hardware and software faults, complete and document Apple GSX repair workflows, build and configure computers, and communicate technical solutions to clients as an Apple-certified technician.",
+      "Diagnose and troubleshoot hardware and software failures across PCs, Apple devices, and Windows, macOS, and Linux systems. Perform device repairs and post-repair functional testing, build and configure computers, document diagnostics and repair workflows through Apple GSX, and communicate technical solutions to clients as an Apple-certified technician.",
   },
 
   {
@@ -82,7 +82,7 @@ const experiences = [
     date: "January 2021 - July 2025",
     title: "Operations Associate: Team Lead and Learning Ambassador",
     description:
-      "Selected at age 18, among the youngest employees at a 500+ person fulfillment site, to coordinate half of an outbound operation processing 10,000+ packages daily, directly leading 10+ associates. Implemented workflow improvements that reduced average truck dispatch time by 50% and later trained 100+ associates as a Learning Ambassador.",
+      "Coordinated half of the outbound operations at a 500+ employee fulfillment center processing 10,000+ packages daily, directly leading 10+ associates. Implemented workflow improvements that reduced average truck dispatch time by approximately 50%, from 2 hours to 1 hour. Trained 100+ associates on operational procedures and workflows as a Learning Ambassador.",
   },
 
   {
