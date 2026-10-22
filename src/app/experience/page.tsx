@@ -42,7 +42,7 @@ const experiences = [
     date: "September 2025 - May 2026",
     title: "Director of Industry Robotics",
     description:
-    "Created the project from concept to physical prototype, secured a $5,000 engineering grant, and directed the 17-member software, electrical, and mechanical team. Personally developed the YOLOv11 computer-vision pipeline, contributed to Teensy 4.1 motor-control firmware, and delivered the minimum viable product 16 days ahead of schedule.",
+    "Created the MARS robotics project from concept to functional prototype, secured a $5,000 engineering grant, and directed a 17-member multidisciplinary team spanning software, electrical, and mechanical engineering. Developed a YOLOv11 computer-vision pipeline, contributed to C++ motor-control firmware on Teensy 4.1, and coordinated hardware/software integration involving NVIDIA Jetson Orin Nano, Python, ROS2, and embedded sensors. Received technical guidance from an Apple hardware engineer during initial project planning. Delivered the minimum viable prototype 16 days ahead of schedule.",
   },
   
   {
