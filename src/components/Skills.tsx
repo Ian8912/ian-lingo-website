@@ -8,6 +8,10 @@ const skills = [
     items: ["Spring Boot", "React", "Next.js", "Flask", "Gradle", "REST APIs", "Tailwind CSS"],
   },
   {
+    category: "Testing",
+    items: ["JUnit 5", "Mockito", "Testcontainers", "pytest"],
+  },
+  {
     category: "Cloud/DevOps",
     items: ["Git", "GitHub", "GitHub Actions", "CI/CD", "Docker", "AWS", "OCI", "Jira", "Vercel", "Cloudflare"],
   },
