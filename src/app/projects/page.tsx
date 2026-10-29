@@ -9,7 +9,7 @@ const projects = [
     image: "/images/chess-opening-gui.png",
     alt: "Full-Stack Java Chess Game",
     description:
-    "Full-stack Java chess application with a Swing client, Spring Boot REST API, PostgreSQL leaderboard, Elo ratings, and a from-scratch AI opponent using negamax, alpha-beta pruning, and quiescence search.",
+    "Full-stack Java chess application featuring a Swing client, Spring Boot REST API, PostgreSQL-backed Elo leaderboard, and a custom AI opponent built using negamax, alpha-beta pruning, and quiescence search. Includes automated testing and CI workflows.",
   },
   {
     title: "MARS: Makerspace Autonomous Robot System",
@@ -17,7 +17,7 @@ const projects = [
     image: "/images/mars-frontrobot.jpeg",
     alt: "MARS: Makerspace Autonomous Robot System",
     description:
-    "Autonomous service robot platform developed with ROS2, NVIDIA Jetson Orin Nano, ZED 2i, RPLidar A1, embedded motor control, and YOLOv11 computer vision. Directed a 17-member IEEE RAS team across hardware, perception, integration, and testing.",
+    "Directed a 17-member IEEE RAS engineering team in developing a mobile robotics platform integrating Python/ROS2 software, NVIDIA Jetson Orin Nano, ZED 2i stereo vision, RPLIDAR, YOLOv11 object detection, and C++ embedded motor control.",
   },
   {
     title: "IEEE TXST Website Platform",
@@ -25,7 +25,7 @@ const projects = [
     image: "/images/ieee-txst-homepage.png",
     alt: "IEEE TXST Website Home Page",
     description:
-      "Production web platform for IEEE at Texas State University built with Next.js, TypeScript, Tailwind CSS, Vercel, and Cloudflare. Led a 7-member student development team to replace a legacy WordPress site serving 100+ users.",
+      "Led a 7-member development team in replacing a decade-old WordPress website with a production Next.js, TypeScript, and Tailwind CSS platform serving 100+ monthly users. Implemented event listings, RSVP integrations, reusable components, and automated Vercel deployments.",
   },
   {
     title: "IEEE R5 Robotics Competition Robot",
@@ -33,7 +33,7 @@ const projects = [
     image: "/images/ras-r5robotics-pico-photo.png",
     alt: "IEEE R5 Robotics Competition Robot",
     description:
-      "Scratch-built competition robot that placed 2nd out of 25 universities at IEEE Region 5 in Boulder, Colorado. The robot used a Raspberry Pi 5 camera for AprilTag detection and task-specific mecanum-drive motor routines under competition constraints.",
+      "Helped design and build a competition robot that placed 2nd out of 25 universities at IEEE Region 5 in Boulder, Colorado. The robot used a Raspberry Pi 5 camera for AprilTag detection and task-specific mecanum-drive motor routines under competition constraints.",
   },
   {
     title: "Weather Forecasting Application",
@@ -41,7 +41,7 @@ const projects = [
     image: "/images/weather-app-homepage.png",
     alt: "Weather Forecasting Application",
     description:
-      "Responsive full-stack weather dashboard built with React, Flask, Firebase, Supabase, and weather APIs to support geolocation search, real-time forecasts, air quality, UV index, and interactive map data.",
+      "Responsive full-stack weather dashboard built with React, Flask, Firebase, and Supabase. Integrated weather and geolocation APIs to display forecasts, air quality, UV index, and interactive map data.",
   },
 ];
 
@@ -63,7 +63,7 @@ const technicalWork = [
     image: "/images/grammy-awards-logo.png",
     alt: "Grammys Web Analytics Analysis",
     description:
-      "Python data analytics project analyzing website traffic trends, audience behavior, and the impact of splitting the Grammys and Recording Academy websites using Pandas, NumPy, Plotly, and Jupyter Notebook.",
+      "Python analytics project evaluating website traffic patterns, audience engagement, and the impact of separating the Grammys and Recording Academy websites. Used Pandas, NumPy, Plotly, and Jupyter Notebook to analyze and visualize trends.",
   },
 ];
 
