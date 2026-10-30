@@ -22,7 +22,7 @@ export default function ResumeViewer() {
               type="button"
               onClick={() => setSelectedIndex(index)}
               aria-pressed={isActive}
-              className={`rounded-full px-5 py-2 text-sm transition-colors ${
+              className={`cursor-pointer rounded-full px-5 py-2 text-sm transition-colors ${
                 isActive
                   ? "bg-sky-500 text-white"
                   : "text-gray-300 hover:text-sky-400"
