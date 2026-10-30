@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   // over the LAN (e.g. your phone hitting the Network URL). Without this,
   // cross-origin dev resources are blocked, React never hydrates, and
   // interactive elements like the mobile menu button stop working.
-  allowedDevOrigins: ["10.2.0.2"],
+  allowedDevOrigins: ["10.2.0.2", "192.168.56.1"],
 };
 
 export default nextConfig;

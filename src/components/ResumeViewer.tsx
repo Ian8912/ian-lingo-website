@@ -1,11 +1,8 @@
 "use client";
 
 import { useState } from "react";
-
-const RESUMES = [
-  { label: "Software Engineer", file: "/docs/ian-lingo-public-swe-resume.pdf" },
-  { label: "Embedded Systems", file: "/docs/ian-lingo-public-embedded-swe-resume.pdf" },
-] as const;
+import Skills from "./Skills";
+import { RESUMES } from "./ResumeData";
 
 export default function ResumeViewer() {
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -56,6 +53,12 @@ export default function ResumeViewer() {
           .
         </p>
       </object>
+
+      <h2 className="mt-16 text-3xl font-bold">Technical Skills</h2>
+
+      <div className="mt-8 mb-20">
+        <Skills skills={selected.skills} />
+      </div>
     </div>
   );
 }

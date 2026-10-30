@@ -1,4 +1,3 @@
-import Skills from "../../components/Skills";
 import ResumeViewer from "../../components/ResumeViewer";
 
 export default function Resume() {
@@ -9,11 +8,6 @@ export default function Resume() {
 
       <ResumeViewer />
 
-      <h2 className="mt-16 text-3xl font-bold">Technical Skills</h2>
-
-      <div className="mt-8 mb-20">
-        <Skills />
-      </div>
     </div>
   );
 }
